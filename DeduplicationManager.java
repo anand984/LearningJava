@@ -1,5 +1,3 @@
-import org.apache.commons.text.*;
-
 class DeduplicationManager{
     private static String s1;
     private static String s2;
